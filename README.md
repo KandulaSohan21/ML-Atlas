@@ -1,2 +1,2 @@
 # ML-Atlas
-A complete handbook of Machine Learning algorithms with theory, advantages, disadvantages, comparisons, and real-world applications.
+A curated collection of Machine Learning algorithms explained through theory, mathematics, advantages, disadvantages, comparisons, visualizations, and real-world applications.
