@@ -23,5 +23,6 @@
 2. Higher fuel consumption is strongly associated with increased CO₂ emissions.
 3. Linear Regression successfully captures the relationship between vehicle specifications and emissions.
 
-
+## Predicted CO₂ Emission
+197.78 g/km
   
