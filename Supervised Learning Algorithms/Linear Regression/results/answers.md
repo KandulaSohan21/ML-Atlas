@@ -13,8 +13,9 @@
 
 # Fuel Consumption vs CO₂ Emissions
 ![Graph 2](https://github.com/KandulaSohan21/ML-Atlas/blob/6e1e548a7847552f2b4291081ae191176c5854fb/Supervised%20Learning%20Algorithms/Linear%20Regression/results/Fuel%20consumption%20vs%20CO2%20Emissions.png)
-- Actual vs Predicted CO₂ Emissions
 
+#Actual vs Predicted CO₂ Emissions
+[Graph 3](https://github.com/KandulaSohan21/ML-Atlas/blob/ec2cadc9f18e7d34777ce944b7cecce138cb17b4/Supervised%20Learning%20Algorithms/Linear%20Regression/results/Actual%20vs%20Predicted%20Co2Emissions.png)
 
 ## Key Findings
 
