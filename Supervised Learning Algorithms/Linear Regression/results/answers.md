@@ -10,7 +10,9 @@
 
 # Engine Size vs CO₂ Emissions
 ![Graph 1](https://github.com/KandulaSohan21/ML-Atlas/blob/cf673e5e46149f430bb7cd9c0d8c3e999efb16de/Supervised%20Learning%20Algorithms/Linear%20Regression/results/Engine%20Size%20vs%20CO2%20Emissions.png)
-- Fuel Consumption vs CO₂ Emissions
+
+# Fuel Consumption vs CO₂ Emissions
+![Graph 2](https://github.com/KandulaSohan21/ML-Atlas/blob/6e1e548a7847552f2b4291081ae191176c5854fb/Supervised%20Learning%20Algorithms/Linear%20Regression/results/Fuel%20consumption%20vs%20CO2%20Emissions.png)
 - Actual vs Predicted CO₂ Emissions
 
 
