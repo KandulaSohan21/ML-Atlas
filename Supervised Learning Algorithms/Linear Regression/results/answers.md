@@ -9,7 +9,7 @@
 ## Generated Visualizations
 
 - Engine Size vs CO₂ Emissions
-  ![Graph 1](6-06-02 22)
+  ![Graph 1](Supervised Learning Algorithms/Linear Regression/results/Actual vs Predicted Co2Emissions.png)
 - Fuel Consumption vs CO₂ Emissions
 - Actual vs Predicted CO₂ Emissions
 
