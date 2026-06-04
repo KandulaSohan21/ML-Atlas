@@ -32,7 +32,7 @@ This imbalance can make classification difficult because the model tends to favo
 
 ### Age vs Customer Churn
 
-![Age vs Customer Churn](https://github.com/KandulaSohan21/ML-Atlas/blob/60e642f139420144d41b70f63d0d45858626d4b6/Supervised%20Learning%20Algorithms/Logistic%20Regression/Results/Actual%20vs%20Predicted%20Co2Emissions.png)
+![Age vs Customer Churn](https://github.com/KandulaSohan21/ML-Atlas/blob/7eb4908f397b4c9c2c85dcf3881f745e4916218e/Supervised%20Learning%20Algorithms/Logistic%20Regression/Results/Age%20vs%20Customer%20churn.png)
 
 #### Observation
 
