@@ -44,7 +44,7 @@ This suggests that age alone is not a strong predictor of customer churn.
 
 ### Salary vs Customer Churn
 
-![Salary vs Customer Churn](results/graph3_salary_vs_churn.png)
+![Salary vs Customer Churn](https://github.com/KandulaSohan21/ML-Atlas/blob/e86e0f209dc9df6742872c39c89535c1068fa508/Supervised%20Learning%20Algorithms/Logistic%20Regression/Results/salary%20vs%20customer%20churn.png).
 
 #### Observation
 
