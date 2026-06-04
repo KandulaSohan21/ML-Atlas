@@ -77,7 +77,7 @@ This indicates that the model is biased toward the majority class.
 
 ### Logistic Regression Sigmoid Curve
 
-![Logistic Regression Curve](results/graph5_logistic_regression_curve.png)
+![Logistic Regression Curve](https://github.com/KandulaSohan21/ML-Atlas/blob/504f4377ca4caf8c40805318de5ddc66ff559d34/Supervised%20Learning%20Algorithms/Logistic%20Regression/Results/logistic%20regression%20sigmoid%20curve.png)
 
 #### Observation
 
