@@ -56,7 +56,7 @@ This indicates that salary has limited influence on churn behavior in this datas
 
 ### Confusion Matrix
 
-![Confusion Matrix](results/graph4_confusion_matrix.png)
+![Confusion Matrix](https://github.com/KandulaSohan21/ML-Atlas/blob/8ec7359f4aec2881c57df0b33f639904266d5caa/Supervised%20Learning%20Algorithms/Logistic%20Regression/Results/Confusion%20Matrix.png)
 
 #### Observation
 
