@@ -17,7 +17,7 @@ The telecom churn dataset was used to predict whether a customer would leave the
 
 ### Customer Churn Distribution
 
-![Customer Churn Distribution](results/graph1_churn_distribution.png)
+![Customer Churn Distribution](https://github.com/KandulaSohan21/ML-Atlas/blob/7873f445ed77e097942a9c68a28cb2c27bc300bc/Supervised%20Learning%20Algorithms/Logistic%20Regression/Results/Custom%20churn%20Distribution.png)
 
 #### Observation
 
